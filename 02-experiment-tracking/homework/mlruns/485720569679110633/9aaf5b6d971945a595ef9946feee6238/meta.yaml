@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/485720569679110633/9aaf5b6d971945a595ef9946feee6238/artifacts
+end_time: 1716975373108
+entry_point_name: ''
+experiment_id: '485720569679110633'
+lifecycle_stage: active
+run_id: 9aaf5b6d971945a595ef9946feee6238
+run_name: youthful-roo-59
+run_uuid: 9aaf5b6d971945a595ef9946feee6238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975365275
+status: 3
+tags: []
+user_id: codespace

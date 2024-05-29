@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/466834966149532317/25154c92baf641e99c7473ac79e0de1a/artifacts
+end_time: 1716975234795
+entry_point_name: ''
+experiment_id: '466834966149532317'
+lifecycle_stage: active
+run_id: 25154c92baf641e99c7473ac79e0de1a
+run_name: orderly-fawn-817
+run_uuid: 25154c92baf641e99c7473ac79e0de1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975229450
+status: 3
+tags: []
+user_id: codespace

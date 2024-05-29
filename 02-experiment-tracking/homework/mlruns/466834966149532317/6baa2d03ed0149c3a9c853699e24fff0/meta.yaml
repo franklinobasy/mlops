@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/466834966149532317/6baa2d03ed0149c3a9c853699e24fff0/artifacts
+end_time: 1716975266737
+entry_point_name: ''
+experiment_id: '466834966149532317'
+lifecycle_stage: active
+run_id: 6baa2d03ed0149c3a9c853699e24fff0
+run_name: debonair-hound-65
+run_uuid: 6baa2d03ed0149c3a9c853699e24fff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975262168
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/466834966149532317/b492d839776a4297936b1004b2d229bf/artifacts
+end_time: 1716975228877
+entry_point_name: ''
+experiment_id: '466834966149532317'
+lifecycle_stage: active
+run_id: b492d839776a4297936b1004b2d229bf
+run_name: auspicious-cat-673
+run_uuid: b492d839776a4297936b1004b2d229bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975228494
+status: 3
+tags: []
+user_id: codespace
